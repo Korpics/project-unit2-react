@@ -85,7 +85,7 @@ I will be checking multiple open source projects to determine how others have do
 - The random generator at it's default use will be easy - and does not worry me. 
 
 
-                           ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
+                           ****  BELOW IS NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
 
 
                                        ***Update 04/19/19 9:54 am***
