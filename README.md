@@ -98,12 +98,12 @@ I will be checking multiple open source projects to determine how others have do
             ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
  ****              
 I would like to find a way to post jobs as well. Will need to venture into the documentation for said API in order to figure out if this is possible and if so - will attempt implementation. 
+
+I would be very excited to try out some sort of local user database to use maybe in .env? I have mildly looked into this already and the process seems quite relative to the environment you're working in as well as the app you are making. I simply don't understand it enough to maintain an exact method that I will use but I am confident that it is possible. 
 ****
 
 
 #### BONUS
-
-- I would be very excited to try out some sort of local user database to use maybe in .env? I have mildly looked into this already and the process seems quite relative to the environment you're working in as well as the app you are making. I simply don't understand it enough to maintain an exact method that I will use but I am confident that it is possible. 
 
 - Would like to add a feature that encourages you to apply for jobs that you would consider 'out of reach'. With that said, I would not like the function to provide them with irrelevant suggestions (i.e. user is filtering through jobs with entry level requirements. transportation/sanitation. They are encouraged to apply for a paralegal position. That would be not good.). Will consider this implementation and I see this as more than likely to make it's way into the app with it's priority sitting behind my mandated function of 'post' and the accompanied 'user posted jobs section'. 
 
