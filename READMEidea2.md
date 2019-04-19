@@ -9,20 +9,20 @@
 
 #### Overview
 
-'homepage'
 
-***Link to Api
+
+                                              ***Link to Api***
 
 https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
 
 
 
-                                Find out about all 311 calls in NYC
+                                        Find out about all 311 calls in NYC
                             
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
 
- **LATEST** renders last 311 call in table format.
+ **LATEST** renders last logged 311 call in table format.
  
  **RANDOM** renders a list of 10 random 311 calls in table format. 
  
@@ -30,7 +30,7 @@ Homepage will consists of five clickable route components that will render the d
  
  **AGENCY** renders all 311 calls by selected agency. No input here - only mandated selection. 
  
- **ALL** renders the json object in it's entirety in table format. There will be a filterBy at the top if this page that will go by description of 311 calls. 
+ **ALL** renders the json object in it's entirety in table format. There will be a filterBy at the top of this page that will filter through calls via description of 311 calls. (matching sub string)
 
 
 
