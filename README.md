@@ -18,8 +18,11 @@
 
                                               ***Link to Api***
 
-https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
-
+                    https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
+                      
+                      
+                            *** Example of JSON object from above API in table format***
+    https://github.com/Korpics/project-unit2-react/blob/master/Screen%20Shot%202019-04-19%20at%2010.58.33%20AM.png
 
 
                                         Find out about all 311 calls in NYC
@@ -42,9 +45,6 @@ Will initially set the state of description to true as there must be some defaul
  **ALL** renders the json object in it's entirety in table format. I will need to figure out if this is even allowed. I have no issue with leaving this function/component out of scope. 
 
 
-
-#### Example of JSON object from above API in table format.
-https://github.com/Korpics/project-unit2-react/blob/master/Screen%20Shot%202019-04-19%20at%2010.58.33%20AM.png
 
 #### Problems I expect ####
 
