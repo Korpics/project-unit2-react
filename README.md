@@ -31,23 +31,26 @@
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
 
+                                               <h2>Components</h2>
  **Homepage/App.js** this will render the ten most recent (by i.d) calls in a very simplistic scrollable canvas (subject to change)
+ 
  
  **RANDOM** button that renders a list of 10 random 311 calls in same format as initial render - replacing the initial render. 
  
+ 
  **TOPICS** Route Component that renders a list of 911 calls that correlate with the Topic selected. Will compose an algorithm that maps through entire data set and attaches each appropriate index/object to corresponding array (this will depend on certain substring matches within props.description). If an index falls out of any category mentioned - it will be rendered under 'Other' if selected/toggled true. 
+ 
  
  **SEARCH** a button that brings you to a clean web page where search parameters can be set to allow manual/detailed searching through the data set. 
 
-data, agency, resolution = false
-anything entered within the user form will specifically search within the keys specified when selected (toggled to true).
-Will initially set the state of description to true as there must be some default search method and I would imagine the most common use would be to search through description. 
+                                   *** data, agency, resolution = false ***    anything entered within the user form will specifically search within the keys specified when selected (toggled to true). Will initially set the state of description to true as there must be some default search method and I would imagine the most common use would be to search through description.   
+ 
  
  **ALL** renders the json object in it's entirety in table format. I will need to figure out if this is even allowed. I have no issue with leaving this function/component out of scope. 
 
 
 
-#### Problems I expect ####
+#### <h2> Problems I expect</h2> ####
 
 - This dataset is very large. I think I may need to look into the documentation to decide if I can specify a 'max date' parameter or if I need to conditionally work around that myself. 
 
