@@ -19,7 +19,7 @@ https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
 
 
 
-                              FIND A JOB!!
+                                               FIND A JOB!!
                             
                         
 The goal of this application will be to find jobs in NYC in a very simplistic manner. 
@@ -64,14 +64,6 @@ There will be many additions I would like to implement along the way, but I am m
 
 ---
 
-                             **NEW CONCERN!!**
-
-**
-May need to use a second api as this api seems bound to specifically state sponsored jobs. I can work with this, but it was to my misunderstanding that these jobs would vary into broader categories. Will investigate alternative apis and will adjust my documentation accordingly. 
-**
-
-
-
 #### Tech 
 
 - Will be using react route, and may utilize other libraries upon researching them/will add them to documentation if so.
@@ -81,16 +73,22 @@ May need to use a second api as this api seems bound to specifically state spons
 
 #### Tech Problems 
 
+                                           **NEW CONCERN!!**
+
+**
+May need to use a second api as this api seems bound to specifically state sponsored jobs. I can work with this, but it was to my misunderstanding that these jobs would vary into broader categories. Will investigate alternative apis and will adjust my documentation accordingly. 
+**
+
 - I am firstly concerned over the algorithm for matching up selected jobs with the filter process.
 I will be checking multiple open source projects to determine how others have done it and why before deciding on an approach.
 
 - The random generator at it's default use will be easy - and does not worry me. 
 
 
-            ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
+                           ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
 
 
-                        ***Update 04/19/19 9:54 am***
+                                       ***Update 04/19/19 9:54 am***
 ***
 There will be a community posted jobs section. It will be - at it's minimum - unmonitored so I am sure it will get pretty NSFW unfortunately but I will ponder on how to program for that. Would like to make conditionals that do not allow the use of certain words at the very least. 
 
@@ -108,6 +106,7 @@ It would be exciting to try out some sort of local user database to use maybe in
 
 
 #### Starter Code
+```
 fetch()
 .then
 .then
@@ -119,6 +118,7 @@ fetch()
 .then
 .then
 { props }
+```
 
 
 (i kid - i'll use axios)
