@@ -12,6 +12,7 @@
 'homepage'
 
 ***Link to Api
+
 https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
 
 
@@ -20,10 +21,15 @@ https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
                             
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
- **LATESTt** renders last 311 call in table format.
+
+ **LATEST** renders last 311 call in table format.
+ 
  **RANDOM** renders a list of 10 random 311 calls in table format. 
+ 
  **TOPICS** brings you to a list of topics to choose from (violence, noise, transportation ..etc)
+ 
  **AGENCY** renders all 311 calls by selected agency. No input here - only mandated selection. 
+ 
  **ALL** renders the json object in it's entirety in table format. There will be a filterBy at the top if this page that will go by description of 311 calls. 
 
 
