@@ -31,7 +31,8 @@
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
 
-                                               <h2>Components</h2>
+<h2>Components</h2>
+
  **Homepage/App.js** this will render the ten most recent (by i.d) calls in a very simplistic scrollable canvas (subject to change)
  
  
