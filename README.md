@@ -59,7 +59,7 @@ ___
 
 - There will need to be functionality that makes sure that the topic selected is the ONLY one selected. I do not want to worry about rendering a list of calls that fall under both 'this', and 'that' topic. 
 
-- While consiering the above potential issue - I also may need to be sure that the search function only allows one 'topic' to search/(map/filter) through - though I could imagine there is a way to allow more than one. Will know more of what I can and or can't do in this regard in a few days. 
+- While considering the above potential issue - I also may need to be sure that the search function only allows one 'topic' to search/(map/filter) through - though I could imagine there is a way to allow more than one. Will know more of what I can and or can't do in this regard in a few days. 
 
 ***04/19/19 4pm still working on this but I am definitely feeling more inclined to give this one a go. Seems both fun and attainable***
 
