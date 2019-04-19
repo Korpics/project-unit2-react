@@ -25,7 +25,8 @@
     https://github.com/Korpics/project-unit2-react/blob/master/Screen%20Shot%202019-04-19%20at%2010.58.33%20AM.png
 
 
-                                        Find out about all 311 calls in NYC
+
+ <h3>Find out about all 311 calls in NYC</h3>
                             
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
