@@ -97,9 +97,9 @@ I will be checking multiple open source projects to determine how others have do
 
             ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
  ****              
-I would like to find a way to post jobs as well. Will need to venture into the documentation for said API in order to figure out if this is possible and if so - will attempt implementation. 
 
 I would be very excited to try out some sort of local user database to use maybe in .env? I have mildly looked into this already and the process seems quite relative to the environment you're working in as well as the app you are making. I simply don't understand it enough to maintain an exact method that I will use but I am confident that it is possible. 
+//Kenny mentioned the use of making state behave statically while merging it with user submission objects to create 'new job postings'. I may be wording this wrong but I will spend some research time on this.//
 ****
 
 
