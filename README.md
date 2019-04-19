@@ -7,14 +7,41 @@
 **Unit-2 Project SEI**
 
 
-#### APP IS AVAILABLE HERE
+#### Overview
 
-#### link to screenshot
+***link to screenshot
 https://github.com/Korpics/project-unit2-react/blob/master/IMG_1063.jpeg
 
 'homepage'
 
+***Link to Api
+https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
+
+
+
+                            FIND A JOB!!
+                            
+                        
+The goal of this application will be to find jobs in NYC in a very simplistic manner. 
+
+The filtering process used in this search application will provide a similar filter one can find on basic job searching apps.
+
+The homepage will feature the ten most recent postings in a canvas with a scroll bar attached. 
+
+There will also be a random job generator that generates a list of random jobs that fit the criteria you have specified (entry level, tech, transport, brooklyn ..etc). 
+
+There will be many additions I would like to implement along the way, but I am more so focused on keeping this in scope and making sure I give myself an attainable goal before getting fancy. 
+
+
+                        ***Update 04/19/19 9:54 am***
+
+There will be a community posted jobs section. It will be - at it's minimum - unmonitored so I am sure it will get pretty NSFW unfortunately but I will ponder on how to program for that. Would like to make conditionals that do not allow the use of certain words at the very least. 
+
+This post function will cause me great headaches I am sure but I am very much so interested in learning how to implement some sort of locally held user database. After discussing with Kenny, it is to my understanding that locally holding user input long term is possible and explained potential work arounds. I will be attempting to research and implement this as a feature and not as a bonus. This will be the last thing implemented as I'd imagine it may entirely transform the use of my app and the data being rendered, and this feels like the most difficult of my 'in scope' ideas. 
+
+
 #### Example of JSON object from above API
+
 ```
 [
     {
@@ -42,35 +69,13 @@ https://github.com/Korpics/project-unit2-react/blob/master/IMG_1063.jpeg
     },
  ```
 
-#### NEW CONCERN
+---
+
+                             NEW CONCERN
+                        
 - May need to use a second api as this api seems bound to specifically state sponsored jobs. I can work with this, but it was to my misunderstanding that these jobs would vary into broader categories. Will investigate alternative apis and will adjust my documentation accordingly. 
 
-#### Overview
 
-Find a Job! 
-
-The Api used is listed below vv
-
-***https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t***
-
-The goal of this application will be to find jobs in NYC in a very simplistic manner. 
-
-The filtering process used in this search application will provide a similar filter one can find on basic job searching apps.
-
-The homepage will feature the ten most recent postings in a canvas with a scroll bar attached. 
-
-There will also be a random job generator that generates a list of random jobs that fit the criteria you have specified (entry level, tech, transport, brooklyn ..etc). 
-
-There will be many additions I would like to implement along the way, but I am more so focused on keeping this in scope and making sure I give myself an attainable goal before getting fancy. 
-
-
-***Update 04/19/19 9:54 am***
-
-There will be a community posted jobs section. It will be - at it's minimum - unmonitored so I am sure it will get pretty NSFW unfortunately but I will ponder on how to program for that. Would like to make conditionals that do not allow the use of certain words at the very least. 
-
-This post function will cause me great headaches I am sure but I am very much so interested in learning how to implement some sort of locally held user database. After discussing with Kenny, it is to my understanding that locally holding user input long term is possible and explained potential work arounds. I will be attempting to research and implement this as a feature and not as a bonus. This will be the last thing implemented as I'd imagine it may entirely transform the use of my app and the data being rendered, and this feels like the most difficult of my 'in scope' ideas. 
-
----
 
 #### Tech 
 
@@ -84,9 +89,12 @@ This post function will cause me great headaches I am sure but I am very much so
 - I am firstly concerned over the algorithm for matching up selected jobs with the filter process.
 I will be checking multiple open source projects to determine how others have done it and why before deciding on an approach.
 
-- The random generator at it's default use will be easy - and does not worry me.  
+- The random generator at it's default use will be easy - and does not worry me. 
 
-- ***NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION***I would like to find a way to post jobs as well. Will need to venture into the documentation for said API in order to figure out if this is possible and if so - will attempt implementation. ****
+
+               NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION
+               
+I would like to find a way to post jobs as well. Will need to venture into the documentation for said API in order to figure out if this is possible and if so - will attempt implementation. ****
 
 
 #### BONUS
