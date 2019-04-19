@@ -9,9 +9,6 @@
 
 #### Overview
 
-***link to screenshot
-https://github.com/Korpics/project-unit2-react/blob/master/IMG_1063.jpeg
-
 'homepage'
 
 ***Link to Api
@@ -32,6 +29,9 @@ Homepage will consists of five clickable route components that will render the d
 
 
 #### Example of JSON object from above API in table format.
+https://github.com/Korpics/project-unit2-react/blob/master/Screen%20Shot%202019-04-19%20at%2010.58.33%20AM.png
+
+#### this is my second idea. May fall to this one as I have a more natural interest to this. Will upload wireframe before proposal - thinking this up on the fly ####
 
 
 
