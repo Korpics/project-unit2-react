@@ -117,11 +117,10 @@ fetch()
 .then
 .then
 .then
-{ props }
 ```
 
 
 (i kid - i'll use axios)
 
 ///to edit with code on monday when I begin implementation. This weekend/today will be devoted to studyingrelevant materials/homework-catch-up.///
-#### end
+#### end 04/19/19
