@@ -33,14 +33,6 @@ There will also be a random job generator that generates a list of random jobs t
 There will be many additions I would like to implement along the way, but I am more so focused on keeping this in scope and making sure I give myself an attainable goal before getting fancy. 
 
 
-                        ***Update 04/19/19 9:54 am***
-***
-There will be a community posted jobs section. It will be - at it's minimum - unmonitored so I am sure it will get pretty NSFW unfortunately but I will ponder on how to program for that. Would like to make conditionals that do not allow the use of certain words at the very least. 
-
-This post function will cause me great headaches I am sure but I am very much so interested in learning how to implement some sort of locally held user database. After discussing with Kenny, it is to my understanding that locally holding user input long term is possible and explained potential work arounds. I will be attempting to research and implement this as a feature and not as a bonus. This will be the last thing implemented as I'd imagine it may entirely transform the use of my app and the data being rendered, and this feels like the most difficult of my 'in scope' ideas.
-***
-
-
 #### Example of JSON object from above API
 
 ```
@@ -96,9 +88,16 @@ I will be checking multiple open source projects to determine how others have do
 
 
             ****   NO LONGER A BONUS - WILL ATTEMPT IMPLEMENTATION ****
- ****              
 
-I would be very excited to try out some sort of local user database to use maybe in .env? I have mildly looked into this already and the process seems quite relative to the environment you're working in as well as the app you are making. I simply don't understand it enough to maintain an exact method that I will use but I am confident that it is possible. 
+
+                        ***Update 04/19/19 9:54 am***
+***
+There will be a community posted jobs section. It will be - at it's minimum - unmonitored so I am sure it will get pretty NSFW unfortunately but I will ponder on how to program for that. Would like to make conditionals that do not allow the use of certain words at the very least. 
+
+This post function will cause me great headaches I am sure but I am very much so interested in learning how to implement some sort of locally held user database. After discussing with Kenny, it is to my understanding that locally holding user input long term is possible and explained potential work arounds. I will be attempting to research and implement this as a feature and not as a bonus. This will be the last thing implemented as I'd imagine it may entirely transform the use of my app and the data being rendered, and this feels like the most difficult of my 'in scope' ideas.
+           
+
+It would be exciting to try out some sort of local user database to use maybe in .env to hide creds? I have mildly looked into this already and the process seems quite relative to the environment you're working in as well as the app you are making. I simply don't understand it enough to maintain an exact method that I will use but I am confident that it is possible. 
 //Kenny mentioned the use of making state behave statically while merging it with user submission objects to create 'new job postings'. I may be wording this wrong but I will spend some research time on this.//
 ****
 
@@ -121,9 +120,8 @@ fetch()
 .then
 { props }
 
-&& <components/>
 
-(i kid)
+(i kid - i'll use axios)
 
-///to edit with code on monday when I begin implementation. This weekend will be devoted to studying/homework-catch-up.///
+///to edit with code on monday when I begin implementation. This weekend/today will be devoted to studyingrelevant materials/homework-catch-up.///
 #### end
