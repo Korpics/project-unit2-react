@@ -27,7 +27,7 @@
 <h1>Find out about all 311 calls in NYC</h1>
                             
                         
-Homepage will consists of five clickable route components that will render the data correlated with said component.
+Homepage will consist of five clickable route components that will render the data correlated with said component.
 
 <h2>Components</h2>
 
