@@ -34,7 +34,10 @@ Homepage will consist of five clickable route components that will render the da
  **Homepage/App.js** this will render the ten most recent (by i.d) calls in a very simplistic scrollable canvas (subject to change)
  ___
  ___
- **RANDOM** button that renders a list of 10 random 311 calls in same format as initial render - replacing the initial render. 
+ **RANDOM** button that renders a list of 10 random 311 calls in same format as initial render - replacing the initial render.
+ 
+thought about this more - and I may use Random to display on a clean web page. Replacing the render is possible via state but may not be the cleanest approach.
+   
  ___
  ___
  **TOPICS** Route Component that renders a list of 911 calls that correlate with the Topic selected. Will compose an algorithm that maps through entire data set and attaches each appropriate index/object to corresponding array (this will depend on certain substring matches within props.description). If an index falls out of any category mentioned - it will be rendered under 'Other'.
