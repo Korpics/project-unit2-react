@@ -37,7 +37,7 @@ Homepage will consist of five clickable route components that will render the da
  **RANDOM** button that renders a list of 10 random 311 calls in same format as initial render - replacing the initial render. 
  ___
  ___
- **TOPICS** Route Component that renders a list of 911 calls that correlate with the Topic selected. Will compose an algorithm that maps through entire data set and attaches each appropriate index/object to corresponding array (this will depend on certain substring matches within props.description). If an index falls out of any category mentioned - it will be rendered under 'Other' if selected/toggled true. 
+ **TOPICS** Route Component that renders a list of 911 calls that correlate with the Topic selected. Will compose an algorithm that maps through entire data set and attaches each appropriate index/object to corresponding array (this will depend on certain substring matches within props.description). If an index falls out of any category mentioned - it will be rendered under 'Other'.
  ___
  ___
  **SEARCH** a button that brings you to a clean web page where search parameters can be set to allow manual/detailed searching through the data set. 
