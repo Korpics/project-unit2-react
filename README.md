@@ -7,7 +7,6 @@
 **Unit-2 Project SEI**
 
 
-#### Overview
 
                           ***Link to rought draft of mock up (still making more of these)***
                           
@@ -21,9 +20,11 @@
                             
     https://github.com/Korpics/project-unit2-react/blob/master/Screen%20Shot%202019-04-19%20at%2010.58.33%20AM.png
 
-<h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2><h2>311</h2>
+<h3>311 is a band and this is not about the band I am sorry</h3>
 
- <h3>Find out about all 311 calls in NYC</h3>
+#### <h2>Overview</h2>
+
+<h1>Find out about all 311 calls in NYC</h1>
                             
                         
 Homepage will consists of five clickable route components that will render the data correlated with said component.
