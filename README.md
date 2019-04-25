@@ -12,6 +12,8 @@ Currently Deployed:
 
 https://radiant-hollows-63402.herokuapp.com/
 
+***the code is updated here within github - eliminating the bugs currently in SearchAll. Having various issues with pushing my updates to heroku and have imported the correct builds. Will attempt to correct this pushing issue before science fair***
+
 Issues:
 
 Discovered a seperate API today (04/25/19) that I linked within this app. I can do much more with this second APIand will be refactoring this Application extensively.
