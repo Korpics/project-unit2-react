@@ -73,9 +73,9 @@ render() {
     <div className="App" style={{display: 'flex', justifyContent: 'center', justifyContent: 'space-evenly', flexDirection: 'column'}}>
 
         <nav>
-            <h3><Link to="/components/Random"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>RANDOM CALL!!</Link></h3>
-            <h3><Link to="/components/SearchAll"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>Search All</Link></h3>
-            <h3><Link to="/components/Footer"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>Data from 2010 to Present(visual & json)</Link></h3>             
+            <h3><Link to="/components/Random"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>RANDOM CALL!!</Link></h3>
+            <h3><Link to="/components/SearchAll"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>Search All</Link></h3>
+            <h3><Link to="/components/Footer"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>Data from 2010 to Present(visual & json)</Link></h3>             
         </nav>
 
         <article>
@@ -113,9 +113,9 @@ else {
     <div className="App" style={{display: 'flex', justifyContent: 'center', justifyContent: 'space-evenly', flexDirection: 'column'}}>
 
         <nav>
-            <h3><Link to="/components/Random"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>RANDOM CALL!!</Link></h3>
-            <h3><Link to="/components/SearchAll"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>Search All</Link></h3>
-            <h3><Link to="/components/Footer"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "cursive"}}>Data from 2010 to Present(visual & json)</Link></h3>             
+            <h3><Link to="/components/Random"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>RANDOM CALL!!</Link></h3>
+            <h3><Link to="/components/SearchAll"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>Search All</Link></h3>
+            <h3><Link to="/components/Footer"style={{justifyContent: 'space-around', margin: 'auto', fontFamily: "tahoma"}}>Data from 2010 to Present(visual & json)</Link></h3>             
         </nav>
 
         <article>

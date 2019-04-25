@@ -159,7 +159,7 @@ class SearchAll extends Component {
     </div>
 
     )}
-        else if (num - 1 > filteredData.length && filteredData.length >= 1){
+        else if (num  > filteredData.length - 1 && filteredData.length >= 1){
             return(
 
         <div style={{ backgroundColor: "#cd853f"}}>
