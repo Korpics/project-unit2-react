@@ -16,6 +16,8 @@ https://radiant-hollows-63402.herokuapp.com/
 
 Issues:
 
+I need to put gif button and picture of 311 in a separate component. I do not mind the gif rendering button having use within every component - and could leave that static in app js upon preference. 
+
 Discovered a seperate API today (04/25/19) that I linked within this app. I can do much more with this second APIand will be refactoring this Application extensively.
 
 I did not expect many of the issues that came up during this production, and learned that verifying you can reach your application's potential with the data you are using - is where I should start first from now on.
